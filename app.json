@@ -1,0 +1,26 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/fact/fact",
+    "pages/timer/timer",
+    "pages/qrcode/qrcode",
+    "pages/wheel/wheel",
+    "pages/game2048/game2048",
+    "pages/muyu/muyu",
+    "pages/retire/retire",
+    "pages/excuse/excuse",
+    "pages/quiz/quiz",
+    "pages/fish/fish",
+    "pages/moment/moment",
+    "pages/praise/praise",
+    "pages/relax/relax",
+    "pages/life/life"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "backgroundColor": "#FDF6E3",
+    "navigationBarBackgroundColor": "#FDF6E3",
+    "navigationBarTitleText": "趣味小工具",
+    "navigationBarTextStyle": "black"
+  }
+}
